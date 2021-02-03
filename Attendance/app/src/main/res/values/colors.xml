@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0052c5</color>
+    <color name="colorPrimaryDark">#00419c</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="line">#242424</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#4422BB</color>
+    <color name="grey">#86888a</color>
+    <color name="gey_text">#505050</color>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Studentnoti"
+            android:icon="@drawable/dialogue"
+            android:title="Notification" />
+        <item
+            android:id="@+id/nav_StudentAttandance"
+            android:icon="@drawable/checklist"
+            android:title="Attandance" />
+        <item
+            android:id="@+id/nav_studentprofile"
+            android:icon="@drawable/account"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_teacherdetail"
+            android:icon="@drawable/form"
+            android:title="Teacher" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            android:title="LogOut" />
+    </group>
+</menu>

@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name" translatable="false">Attendance</string>
+    <string name="title_activity_index">Index</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">------ ------</string>
+    <string name="nav_header_subtitle">------------------------------</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_noti">Notification</string>
+    <string name="menu_sender">Sender</string>
+    <string name="menu_addstudent">Add Student</string>
+    <string name="menu_addteacher">Add Teacher</string>
+    <string name="menu_attedance">Attandance</string>
+    <string name="menu_attandancereport">Attandance Report</string>
+    <string name="menu_detailstudent">Student</string>
+    <string name="menu_detailteacher">Teacher</string>
+    <string name="menu_profile">Profile</string>
+
+
+    <string name="menu_share">Share</string>
+
+    <string name="menu_Logout">Log Out</string>
+
+    <string name="key"></string>
+    <string name="place"></string>
+    <string name="title_activity_student_index">studentIndex</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_send">Send</string>
+    <string name="send">Send</string>
+    <string name="message">Message:</string>
+    <string name="subject">Subject</string>
+    <string name="fullname">Full name:</string>
+    <string name="usertypw_teacher">UserTypw:Teacher</string>
+    <string name="profile_pic">Profile pic</string>
+    <string name="division">Division:</string>
+    <string name="rollnumber">RollNumber:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="_91_1234567890">+91 1234567890</string>
+    <string name="email">Email:</string>
+    <string name="adminerror_210_com">------@gmail.com</string>
+    <string name="uid">Uid:</string>
+    <string name="_941264536383012">-------------</string>
+    <string name="address">Address:</string>
+    <string name="cource">Cource:</string>
+    <string name="year">Year:</string>
+    <string name="subject1">Subject:</string>
+    <string name="message1">Message</string>
+    <string name="birth_date">Birth date</string>
+    <string name="degree">Degree:</string>
+    <string name="next">Next</string>
+    <string name="password">password</string>
+    <string name="comfirm_pasword">Comfirm pasword</string>
+    <string name="submit">Submit</string>
+    <string name="show">Show</string>
+    <string name="search">Search</string>
+    <string name="camera">Camera</string>
+</resources>

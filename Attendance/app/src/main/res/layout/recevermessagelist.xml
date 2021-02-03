@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <TextView
+        android:id="@+id/by"
+        android:layout_width="269dp"
+        android:layout_height="30dp"
+        android:paddingLeft="6dp"
+        android:text="dr.shravan suthar"
+        android:textColor="@color/black"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="19dp" />
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hh:mm dd/mm/yyyy"
+        android:textAlignment="textEnd"
+        android:textSize="15dp"
+        android:layout_marginLeft="270dp"
+        android:paddingTop="5dp"
+        android:textColor="@color/grey"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subject:"
+        android:layout_marginTop="30dp"
+        android:paddingStart="6dp"
+        android:textSize="19dp"
+        android:textColor="#000"/>
+    <TextView
+        android:id="@+id/subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Good morning"
+        android:textColor="@color/grey"
+        android:layout_marginLeft="78dp"
+        android:layout_marginTop="32dp"
+        android:textSize="18dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Message:"
+        android:layout_marginTop="58dp"
+        android:paddingStart="6dp"
+        android:textSize="19dp"
+        android:textColor="#000"/>
+    <TextView
+        android:id="@+id/messae"
+        android:text="Today holiday"
+        android:textSize="15dp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:maxLines="4"
+        android:textColor="@color/grey"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="61dp" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#242424" />
+</RelativeLayout>
