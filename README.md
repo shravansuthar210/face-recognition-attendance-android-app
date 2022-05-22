@@ -33,5 +33,5 @@
       <code>Api: YOURSERVERPATH/face/v1.0</code>
 </ol>
 
-<h2>HappCoding</h2>
+<h2>Happy Coding</h2>
 
