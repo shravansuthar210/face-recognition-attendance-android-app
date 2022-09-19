@@ -12,6 +12,8 @@
   <li>Setup A firebase Project.</li>
   <ul>
     <li>Storage</li>
+    <li>Auth</li>
+    <p>Auhentication with email password</p>
     <li>Real time Databse</li>
     <p>Edit Rules:</p>
     <p>path : Realtime Database/rules</p>
