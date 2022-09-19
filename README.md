@@ -3,8 +3,8 @@
 <h1>Requirement</h1>
 <ul>
   <li>Android Studio</li>
-  <li>Firebase</li>
-  <li>Azure Face Api</li>
+  <li>Firebase <a href="https://firebase.google.com"/>link</a></li>
+  <li>Azure Face Api <a href="https://azure.microsoft.com/en-us/products/cognitive-services/face/#overview">link</a></li>
 </ul>
 
 <h2>Important instructions</h2>
